@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\bin\Debug\netstandard2.0\XamAcApp.deps.json
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\bin\Debug\netstandard2.0\XamAcApp.dll
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\bin\Debug\netstandard2.0\ref\XamAcApp.dll
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\bin\Debug\netstandard2.0\XamAcApp.pdb
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamAcApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamAcApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamAcApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamAcApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamAcApp.dll
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\ref\XamAcApp.dll
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\XamAcApp.pdb
+C:\Users\DELL\source\repos\xamapi\XamAcApp\XamAcApp\obj\Debug\netstandard2.0\NewAccountPage.xaml.g.cs
